@@ -1,5 +1,5 @@
 # Site settings
-title: ToongKu
+title: Home
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "ToongKu|Hello World"  
@@ -10,7 +10,7 @@ url: "http://cnfeat"
 owner: 
   name: " ToongKu"
   email: ytoong@163.com
-  bio: "写就是写的报酬"
+  bio: "个性签名没个性"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
