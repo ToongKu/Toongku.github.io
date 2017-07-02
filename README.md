@@ -8,6 +8,7 @@
 
 我是ToongKu，博客：[Toongku](toongku.github.io)
 
-是一位从事ERP系统的技术工程师，喜欢Sneaker，喜欢家具。
+是一个ERP技术工程师，喜欢鞋，喜欢很多东西。
+希望能记录下一些对他人有用的东西。
 
 
