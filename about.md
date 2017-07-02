@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "个性签名没个性"
+description: "个性签名没个性。"
 header-img: "img/green.jpg"
 ---
 
